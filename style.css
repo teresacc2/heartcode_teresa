@@ -1,0 +1,22 @@
+.navbar {
+    margin: 0;
+    border: 0;
+}
+
+.litter-title {
+    color: red;
+}
+
+.image{
+	position: relative;
+}
+
+#overlay {
+    position:absolute;
+    text-align:center;
+    z-index:2;
+    top:50%;
+    left:.5;right:.5;
+    background-color:rgba(19, 18, 18, 0.5);
+    color:white;
+}
